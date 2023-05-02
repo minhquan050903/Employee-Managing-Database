@@ -5,3 +5,5 @@ I was part of a group project where we collaborated to write SQL queries to extr
 During this project, I gained hands-on experience in writing complex SQL queries and utilizing various database management tools. I also developed strong problem-solving skills as we encountered challenges and worked together to find solutions.
 
 Overall, this project allowed me to strengthen my technical skills as a software engineer and taught me the importance of teamwork and collaboration in delivering high-quality projects.
+
+Note: Database was provided by the Creation Script and all SQL querries can be found in querries.sql file
