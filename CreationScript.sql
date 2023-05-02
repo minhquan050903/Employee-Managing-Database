@@ -10,7 +10,6 @@ Rem
 Rem
 Rem    This PART of script will drop all SEQUENCES and TABLES related to DEMO schema
 Rem
-
 SET FEEDBACK 1
 SET NUMWIDTH 10
 SET LINESIZE 80
