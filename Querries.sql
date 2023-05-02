@@ -8,7 +8,6 @@
 -- Date: Oct 13, 2022
 -- Purpose: Assignment 1
 -- ***************************************
-
 /* Question 1 - Display the employee number, full employee name, job 
 --and hire date of all employees hired in May or November of any year, 
 with the most recently hired employees displayed first. */ 
